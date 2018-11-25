@@ -2,7 +2,8 @@ html {
   background-color:#e6fff9;
 }
 h1{
-  margin: 50px 0 0 200px;
+  text-align: center;
+  margin: 50px 0 0;
   color: white;
   text-shadow: 5px 3px 3px #3333ff, 0.2px 0.3px 5px #ff6600;
 }
